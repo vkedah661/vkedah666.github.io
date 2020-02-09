@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Noto Serif';
+  src: url('/fonts/NotoSerif-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Noto Serif', serif;
+  /*color: white;*/
+}
