@@ -1,9 +1,9 @@
 @font-face {
-  font-family: 'Noto Serif';
-  src: url('/fonts/NotoSerif-Regular.ttf') format('truetype');
+  font-family: 'Roboto Condensed';
+  src: url('/fonts/RobotoCondensed-Regular.ttf') format('truetype');
 }
 
 body {
-  font-family: 'Noto Serif', serif;
+  font-family: 'Roboto Condensed', serif;
   /*color: white;*/
 }
