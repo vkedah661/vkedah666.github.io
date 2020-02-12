@@ -6,7 +6,17 @@ body {
   margin: auto;
 }
 
+.nav {
+  font-family: 'Roboto Condensed';
+}
+
+.article-title {
+  font-family: 'Roboto Condensed';
+  font-size: 40px;
+}
+
 .article {
+  font-family: 'Playfair Display';
   font-size: 20px;
 }
 
