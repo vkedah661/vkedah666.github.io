@@ -1,23 +1,32 @@
 body {
   background: white;
   color: black;
-
-  width: 70%;
-  margin: auto;
 }
 
 .nav {
   font-family: 'Roboto Condensed';
+  
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  z-index: 1;
+  flex-direction: column;
 }
 
-.article-title {
-  font-family: 'Roboto Condensed';
-  font-size: 40px;
+.article-title-img {
+  max-width: 100%;
 }
 
 .article {
   font-family: 'Playfair Display';
   font-size: 20px;
+  width: 70%;
+  margin: auto;
+}
+
+.article .article-title {
+  font-family: 'Roboto Condensed';
+  font-size: 40px;
 }
 
 p {
