@@ -56,4 +56,5 @@ p {
  .right {
   text-align: right;
    width: 70%;
+   margin: auto;
   }
