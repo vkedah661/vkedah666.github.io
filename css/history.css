@@ -1,0 +1,54 @@
+body {
+  background: white;
+  color: black;
+  margin-top: 0px; 
+  margin-bottom: 0px; 
+  margin-left: 0px; 
+  margin-right: 0px;
+}
+
+.article-header {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100vh;
+  background-image: url('/images/history.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.article-header .nav {
+  margin-top: 3%;
+  font-family: 'Roboto Condensed';
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.article-header .nav a {
+  color: white;
+  display: inline-block;
+  margin: 0 20px;
+  transition: opacity 0.5s ease;
+}
+
+.article-header .article-title {
+  font-family: 'Roboto Condensed';
+  font-size: 60px;
+  color: white;
+  margin-top: 20%;
+  background-color: rgba(0, 0, 0, .3)
+}
+
+.article {
+  font-family: 'Playfair Display';
+  font-size: 20px;
+  width: 70%;
+  margin: auto;
+}
+
+p {
+  text-align: justify;
+}

@@ -3,7 +3,7 @@
   src: url('/fonts/RobotoCondensed-Regular.ttf') format('truetype');
 }
 
-body {
-  font-family: 'Roboto Condensed', serif;
-  /*color: white;*/
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('/fonts/PlayfairDisplay-Regular.ttf') format('truetype');
 }
