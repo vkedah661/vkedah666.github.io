@@ -2,7 +2,6 @@ body {
   background: white;
   color: black;
   margin-top: 0px; 
-  margin-bottom: 0px; 
   margin-left: 0px; 
   margin-right: 0px;
 }
@@ -49,6 +48,13 @@ body {
   margin: auto;
 }
 
-p {
+.article p {
   text-align: justify;
+}
+
+.thanks {
+  font-family: 'Playfair Display';
+  width: 70%;
+  text-align: right;
+  margin: auto;
 }
