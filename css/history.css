@@ -52,3 +52,7 @@ body {
 p {
   text-align: justify;
 }
+
+ .right {
+  text-align: right;
+  }
