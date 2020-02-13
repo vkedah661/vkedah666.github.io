@@ -49,7 +49,7 @@ body {
   margin: auto;
 }
 
-p {
+.article p {
   text-align: justify;
 }
 
