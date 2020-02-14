@@ -63,3 +63,11 @@ body {
   text-align: right;
   margin: auto;
 }
+
+ .right {
+  text-align: right;
+   width: 70%;
+   margin: auto;
+   font-family: 'Playfair Display';
+  }
+
